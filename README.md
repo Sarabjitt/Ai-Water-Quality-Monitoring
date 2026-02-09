@@ -30,24 +30,6 @@ This project presents an AI-based water quality monitoring system that:
 - AI Technique: Unsupervised Anomaly Detection (Isolation Forest)  
 - Platform: Google Colab / Local Python Environment  
 
----
-
-* Project Structure
-Ai-water-quality-monitoring/
-│
-├── data/
-│ └── water_quality.csv
-│
-├── src/
-│ ├── data_loader.py
-│ ├── anomaly_detection.py
-│ ├── alerts.py
-│ └── visualization.py
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
 
 * How It Works
 1. Loads real-world water quality data  
